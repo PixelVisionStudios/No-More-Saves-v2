@@ -1,0 +1,4 @@
+Addon Name: No Save Addon
+Version: 1.0
+Author: Your Name
+Description: This addon hides the save button as a prank.
