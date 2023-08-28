@@ -1,11 +1,11 @@
 bl_info = {
     "name": "No Save Addon",
-    "author": "Your Name",
+    "author": "pixelvisionstudios",
     "version": (1, 0),
     "blender": (2, 80, 0),
     "location": "View3D > Sidebar",
-    "description": "Hides the save button as a prank.",
-    "category": "Development",
+    "description": "Hides the save button.",
+    "category": "In Development",
 }
 
 import bpy
